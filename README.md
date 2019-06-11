@@ -1,21 +1,21 @@
 # ds042219_mod3_proj3
 Ulku and Kiryl module 3 project
-GOAL: to use knowledge of statistical analysis and hypothesis testing to generate analytical insights that can be meaningful to the company/stakeholder;
+**GOAL:** To use knowledge of statistical analysis and hypothesis testing to generate analytical insights that can be meaningful to the company/stakeholder.
 
-DATASET: Pitchfork reviews
+**DATASET:** Pitchfork reviews
 
-OBJECTIVES:
+**OBJECTIVES:**
 
-STRUCTURE:
+**STRUCTURE:**
 
-test_1:one sample t test
+**Test_1:** One Sample T-Test
 
-test_2: two sample t test
+**Test_2:** Two Sample T-Test
 
-test_3: ANOVA
+**Test_3:** One-Factor ANOVA Test
 
-test_4: Chi-squared
+**Test_4:** Chi-Squared Test
 
-SUMMARY: 
+**SUMMARY:** 
 
-During this project we reveiwed given dataset, formulated questions and hypotheses, ran statistical test
+During this project we reveiwed given dataset, formulated questions and hypotheses, run statistical test.
