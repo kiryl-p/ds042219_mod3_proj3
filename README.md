@@ -33,4 +33,4 @@ To use knowledge of statistical analysis and hypothesis testing to generate anal
 
 **SUMMARY** 
 
-During this project we reveiwed given dataset, formulated questions and hypotheses, run statistical test.
+During this project we reveiwed given dataset, formulated questions and hypotheses, ran statistical test.
