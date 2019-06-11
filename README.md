@@ -18,4 +18,4 @@ test_4: Chi-squared
 
 SUMMARY: 
 
-During this project we reveiwed given dataset, formulated questions and hypotheses, run statistical test
+During this project we reveiwed given dataset, formulated questions and hypotheses, ran statistical test
